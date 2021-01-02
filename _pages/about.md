@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "PhD student at Tulane University"
+excerpt: "Research Assistant in North China University of Technology"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,29 +10,27 @@ redirect_from:
 
 <p style="text-align: justify;">
   
-I am a second year PhD student at Tulane University, working with <a href ="http://www.cs.tulane.edu/~jhamm3/"> Prof. Jihun Hamm</a>. My current research is related to developing a method for solving large-scale bilevel optimization problems that appear in machine learning. Some of the important applications include hyperparameter optimization, few-shot learning, importance learning and training-data poisoning. I also work on understanding the limitation of machine learning models and am developing a method to make models robust to train and test-time attacks.
-<br><br>
-I completed my Masters in Computer Science from The Ohio State University under the guidance of <a href ="http://www.cs.tulane.edu/~jhamm3/"> Prof. Jihun Hamm</a> and <a href="http://misha.belkin-wang.org/">Prof. Mikhail Belkin</a> where I worked on combining active learning and semi-supervised learning to speed up interactive image retrieval.
+I am Research Assistant in North China University of Technology, working with <a href ="https://www.researchgate.net/profile/Huafeng_Wang4"> Prof. Huafeng Wang</a>. I obtained my undergraduate degree in Communication Engineering. My past research experiences mainly focus on developing suitable machine learning algorithm for automatic sleep stages scoring system, image processing and online community data mining and algorithmic building. 
+
+I am a core volunteer of <a href = "https://swarma.org/">Swarma Club</a>, which is a group of explorers engaged in academic research and enjoying science, and is the first scientific community in China to study artificial intelligence and complex systems.
+
+<font color=#FF0000 >I am now looking for Ph.D. Positions.</font>
 
 </p>
 
 Research Interest
 ======
 <p style="text-align: justify;">
-I am interested in large scale bilevel optimization and adversarial machine learning problems. I'm also very interested in understanding the problem of generalization in modern machine learning.
+My research interests mainly focus on developing machine learning tools for solving real-world problems, in- cluding: machine learning for medical data processing, data analytics, signal/image processing. I also interest in building suitable machine learning algorithms for wearable device.
 </p>
 
 Publications
 ======
 
-* “[How Robust are Randomized Smoothing based Defenses to Data Poisoning?](https://arxiv.org/pdf/2012.01274.pdf)”. [Code](https://github.com/akshaymehra24/poisoning_certified_defenses)
-  <br> Akshay Mehra, Bhavya Kailkhura, Pin-Yu Chen and Jihun Hamm.  
-* “[Penalty Method for Inversion-Free Deep Bilevel Optimization](https://arxiv.org/pdf/1911.03432.pdf)”. [Code](https://github.com/jihunhamm/bilevel-penalty)
-  <br> Akshay Mehra, Jihun Hamm.    
-* “[Fast Interactive Image Retrieval using large-scale unlabeled data](https://arxiv.org/pdf/1802.04204.pdf)”.
-  <br> Akshay Mehra, Jihun Hamm and Mikhail Belkin. 
-* “[Machine vs Machine: Minimax-Optimal Defense Against Adversarial Examples](https://arxiv.org/pdf/1711.04368.pdf)”.
-  <br> Jihun Hamm and Akshay Mehra. 
+* “[End-to-End Automatic Sleep Staging with Raw Single-Channel EEG Using Multi-Scale deep residual network]()”. [Code](https://github.com/edzq/SleepNet) <br> Qi Zhang, Huafeng Wang. (working in progress)
+* “[Super-resolution reconstruction algorithms based on fusion of deep learning mechanism and wavelet](https://dl.acm.org/doi/10.1145/3357254.3358600)”. [Code](https://github.com/edzq/WaveletSRGAN)<br> Qi Zhang, Huafeng Wang.    
+* “[A Sim2real method based on Double deep Q-Network for training a self-driving scale car](https://www.aimsciences.org/article/doi/10.3934/mfc.2019020).[Code](https://github.com/edzq/Self-Driving-RL4ScaleCar)”.<br> Qi Zhang, Tao Du, Changzheng Tian. 
+
 
 
 
