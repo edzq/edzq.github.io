@@ -29,7 +29,7 @@ Research experience & Involved Research Projects
 * Research Assistant, Intelligent Bionic Perception Lab, NCUT, 7/2020 - 12/2020
   * Supervisors: Prof. Huafeng Wang
   * Focused on machine/deep learning algorithm for sleep EEG signal processing and image super-resolution reconstruction (See below projects for details);
-	* Participated in weekly research group meeting and literature review seminars; used PyTorch, Tensorflow and scikit-learn to reproduce models of papers;
+  * Participated in weekly research group meeting and literature review seminars; used PyTorch, Tensorflow and scikit-learn to reproduce models of papers;
   * Significantly bolstered technical leadership, Multi-tasking and interpersonal skills and ability for conducting independent research.
 
 
@@ -43,12 +43,12 @@ Research experience & Involved Research Projects
 
 * Supper-resolution reconstruction algorithm based on GAN and wavelet, 6/2018 - 5/2019, [github](https://github.com/edzq/WaveletSRGAN)
   * Supervisors: Prof. Huafeng Wang
-	* Proposed a novel single image super-resolution method combining Wavelet and Generative Adversarial Networks in this project. Compared with SRGAN, our model could reconstruct high-resolution images with richer global information and local texture details.
-	* Participated in the codes and experiment, paper writing, algorithm design, etc..
+  * Proposed a novel single image super-resolution method combining Wavelet and Generative Adversarial Networks in this project. Compared with SRGAN, our model could reconstruct high-resolution images with richer global information and local texture details.
+  * Participated in the codes and experiment, paper writing, algorithm design, etc..
 	
 * Self-driving scale car based on Deep Reinforcement learning, 4/2019 - 10/2019, [github](https://github.com/edzq/Self-Driving-RL4ScaleCar)
   * Supervisors: Prof. Tao Du
-	* Used Deep Q-network algorithm and Unity 3D virtual engine to train a self-driving car model and migrated it to a 16:1 scale car to the real world, which can drive automatically only use one fish-eye camera. 
+  * Used Deep Q-network algorithm and Unity 3D virtual engine to train a self-driving car model and migrated it to a 16:1 scale car to the real world, which can drive automatically only use one fish-eye camera. 
   * Worked as the team leader of this project, my contributions including algorithm design, codes and experiment, paper writing, etc..
 
 
