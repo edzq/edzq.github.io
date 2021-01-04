@@ -4,7 +4,7 @@ title: ""
 permalink: /starsky/
 author_profile: true
 redirect_from:
-  - /StarSky
+  - /starsky
 
 ---
 
