@@ -17,6 +17,8 @@ main:
     
   - title: "Resume"
     url: /cv/
+  - title: "StarSKy"
+    url: /StarSky/
     
   #- title: "Guide"
   #  url: /markdown/
