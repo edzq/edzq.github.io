@@ -31,20 +31,19 @@ All the courses are displayed in the two-dimensional map, the information displa
 
 ## Algorithms Details
 
-####  1. Chinese Word Segmentation
+###  1. Chinese Word Segmentation
 
 Using tf-idf(jieba Module) to extract keywords.
 constructing the knowledge structure based on text data of our courses.
 
-####  2. Text embeddings and evolution 
+###  2. Text embeddings and evolution 
 
 used BOW, Word2Vec to embed the text into vectors, built courses text similarity matrix, used k-means to cluster the similar courses, used T-sne+ to lower down dimension and evolute the knowledge sky.
 
 
-#### 3. Force-directed layout
+### 3. Force-directed layout
 
 Realized repulsive force to arrange the layout, adding the clearity of knowledge map in 2-D.
-
 
 click here for a clip on Youtube: https://www.youtube.com/watch?v=XgoLyWtQG2Y
 

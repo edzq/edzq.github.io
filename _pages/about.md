@@ -15,16 +15,16 @@ I am Research Assistant in North China University of Technology, working with <a
 
 I am a core volunteer of <a href = "https://swarma.org/">Swarma Club</a>, which is a group of explorers engaged in academic research and enjoying science, and is the first scientific community in China to study artificial intelligence and complex systems.
 <br/>
-**I am now looking for Ph.D. Positions.**
+**I am now looking for research opportunities.**, you can connect with me ekzhang98@gmail.com. My <a href = "https://edzq.github.io/cv/">CV</a>.
 
-<a href = "https://edzq.github.io/cv/">CV</a>
 
 </p>
 
 Research Interest
 ======
 <p style="text-align: justify;">
-My research interests mainly focus on developing machine learning tools for solving real-world problems, including: machine learning for medical data processing, data analytics and NLP, signal/image processing. I also interest in building suitable machine learning algorithms for wearable device.
+I want to do advanced research in machine learning fields. 
+My research past interests mainly focus on developing machine learning tools for solving real-world problems, including: machine learning for medical data processing, data analytics and NLP, signal/image processing.
 </p>
 
 Publications
