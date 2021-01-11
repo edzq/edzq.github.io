@@ -16,7 +16,7 @@ I am Research Assistant in North China University of Technology, working with <a
 I am a core volunteer of <a href = "https://swarma.org/">Swarma Club</a>, which is a group of explorers engaged in academic research and enjoying science, and is the first scientific community in China to study artificial intelligence and complex systems.
 <br/>
 **I am now looking for research opportunities.**. 
-
+<br/>
 You can connect with me ekzhang98@gmail.com. My <a href = "https://edzq.github.io/cv/">CV</a>.
 
 
