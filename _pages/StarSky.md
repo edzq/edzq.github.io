@@ -16,8 +16,6 @@ redirect_from:
 
 The dots in the image represent the courses in our website. The colors represents clustered categories. The size of the dots means the number of people paticipate in the program, which means the bigger dot represents more people take in this course. 
 
-The colors represent clustered categories. Courses of similar type are grouped into one category.
-
 ## Something interesting of this work
 
 All the courses are displayed in the two-dimensional map, the information displayed is more multi-dimensional and richer.
