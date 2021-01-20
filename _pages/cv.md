@@ -20,7 +20,7 @@ Publications
 <!--  ![New](output.gif) -->
 * “[End-to-End Automatic Sleep Staging with Raw Single-Channel EEG Using Multi-Scale deep residual network]()”. [Code](https://github.com/edzq/SleepNet) <br> Qi Zhang, Huafeng Wang. (working in progress)
 * “[Super-resolution reconstruction algorithms based on fusion of deep learning mechanism and wavelet](https://dl.acm.org/doi/10.1145/3357254.3358600)”. [Code](https://github.com/edzq/WaveletSRGAN)<br> Qi Zhang, Huafeng Wang.    
-* “[A Sim2real method based on Double deep Q-Network for training a self-driving scale car](https://www.aimsciences.org/article/doi/10.3934/mfc.2019020).[Code](https://github.com/edzq/Self-Driving-RL4ScaleCar)”.<br> Qi Zhang, Tao Du, Changzheng Tian. 
+* “[A Sim2real method based on Double deep Q-Network for training a self-driving scale car](https://www.aimsciences.org/article/doi/10.3934/mfc.2019020)". [Code](https://github.com/edzq/Self-Driving-RL4ScaleCar).<br> Qi Zhang, Tao Du, Changzheng Tian. 
 
 
 Research experience & Involved Research Projects
