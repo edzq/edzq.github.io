@@ -12,7 +12,7 @@ redirect_from:
 ## What is knowledge star-sky?
 **Have a look for the courses knowledge star-sky!**
 
-![星空图](../images/StarSkyDemo.png)
+<img src="../images/StarSkyDemo.png" width = "80%" />
 
 The dots in the image represent the courses in our website. The colors represents clustered categories. The size of the dots means the number of people paticipate in the program, which means the bigger dot represents more people take in this course. 
 
