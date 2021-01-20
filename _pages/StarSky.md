@@ -43,7 +43,7 @@ used BOW, Word2Vec to embed the text into vectors, built courses text similarity
 
 Realized repulsive force to arrange the layout, adding the clearity of knowledge map in 2-D.
 
-click here for a clip on Youtube: https://www.youtube.com/watch?v=XgoLyWtQG2Y
+click here for a clip on [Youtube](https://www.youtube.com/watch?v=XgoLyWtQG2Y) 
 
 
 
