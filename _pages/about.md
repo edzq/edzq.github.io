@@ -14,3 +14,8 @@ Specifically, I am working on developing high-performance information extraction
 
 
 **News**
+
+**08-2024** My first-author paper on scientific named entity and relation extraction was accepted to EMNLP2024 main conference!
+
+**06-2024** Our paper on flowchart understanding was accepted to ECAI2024!
+
