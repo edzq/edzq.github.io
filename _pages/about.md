@@ -21,7 +21,7 @@ Specifically, I am working on developing high-performance information extraction
 
 **EMNLP 2024, Main**
 
-<br>
+---
 
 **FlowLearn: Evaluating Large Vision-Language Models on Flowchart Understanding**
 
@@ -29,7 +29,7 @@ Huitong Pan, **Qi Zhang**, Cornelia Caragea, Eduard Dragut, Login Jan Latecki
 
 **ECAI 2024**
 
-<br>
+---
 
 **SciDMT: A Large-Scale Corpus for Detecting Scientific Mentions**
 
@@ -37,6 +37,20 @@ Huitong Pan, **Qi Zhang**, Cornelia Caragea, Eduard Dragut, Login Jan Latecki
 
 **LREC-COLING 2024**
 
+
+---
+
+**DMDD: A Large-Scale Dataset for Dataset Mention Detection**
+
+Huitong Pan, **Qi Zhang**, Eduard Dragut, Cornelia Caragea, Login Jan Latecki
+
+Transactions of the Association for Computational Linguistics , **TACL**
+
+<br>
+
+**A novel sleep staging network based on multi-scale dual attention**
+
+Huafeng Wang, Chongang Lu, **Qi Zhang**, Zhimin Hu, Xiaodong Yuan, Pingshu Zhang, Wanquan Liu
 
 <!-- **08-2024** My first-author paper on scientific named entity and relation extraction was accepted to EMNLP2024 main conference!
 
