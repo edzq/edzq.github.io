@@ -13,31 +13,35 @@ My primary research interests are centered around natural language processing, l
 Specifically, I am working on developing high-performance information extraction models under low-resource scenarios using cost-effective techniques such as weak/distant supervision, semi-supervised learning, and in-context learning.
 
 
-## Publications
+# Publications
 
 **SciER: An Entity and Relation Extraction Dataset for Datasetes, Methods, and Tasks in Scientific Documents**
 
 **Qi Zhang**, Zhijia Chen, Huitong Pan, Cornelia Caragea, Login Jan Latecki, Eduard Dragut
 
 **EMNLP 2024, Main**
+
 ---
 **FlowLearn: Evaluating Large Vision-Language Models on Flowchart Understanding**
 
 Huitong Pan, **Qi Zhang**, Cornelia Caragea, Eduard Dragut, Login Jan Latecki
 
 **ECAI 2024**
+
 ---
 **SciDMT: A Large-Scale Corpus for Detecting Scientific Mentions**
 
 Huitong Pan, **Qi Zhang**, Cornelia Caragea, Eduard Dragut, Login Jan Latecki
 
 **LREC-COLING 2024**
+
 ---
 **DMDD: A Large-Scale Dataset for Dataset Mention Detection**
 
 Huitong Pan, **Qi Zhang**, Eduard Dragut, Cornelia Caragea, Login Jan Latecki
 
 Transactions of the Association for Computational Linguistics , **TACL**
+
 ---
 **A novel sleep staging network based on multi-scale dual attention**
 
