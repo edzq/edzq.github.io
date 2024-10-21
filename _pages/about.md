@@ -7,14 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi👋, I am currently a Computer Science Phd Candidate at the Computer and Information Sciences Department of Temple University. I am fortunate to be advised by [Dr. Eduard Dragut](https://cis.temple.edu/~edragut/index.htm).
+Hi👋, I am currently a Computer Science Phd Candidate at the Computer & Information Sciences Department of Temple University. I am fortunate to be advised by [Dr. Eduard Dragut](https://cis.temple.edu/~edragut/index.htm).
 
 My primary research interests are centered around natural language processing, large language models and machine learning. 
-Specifically, I am working on developing high-performance information extraction models under low-resource scenarios using cost-effective techniques such as weak/distant supervision, semi-supervised learning, and in-context learning.
+Specifically, I am working on developing information extraction models under low-resource scenarios using cost-effective techniques such as weak/distant supervision, semi-supervised learning, and in-context learning.
 
 
 # Publications
 
+---
 **SciER: An Entity and Relation Extraction Dataset for Datasetes, Methods, and Tasks in Scientific Documents**
 
 **Qi Zhang**, Zhijia Chen, Huitong Pan, Cornelia Caragea, Login Jan Latecki, Eduard Dragut
