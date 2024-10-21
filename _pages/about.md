@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi👋, I am currently a Computer Science Phd Candidate at the Computer & Information Sciences Department of Temple University. I am fortunate to be advised by [Dr. Eduard Dragut](https://cis.temple.edu/~edragut/index.htm).
+Hi👋, my name is Qi Zhang (张棋) I am currently a Computer Science Phd Candidate at Computer & Information Sciences Department of Temple University. I am fortunate to be advised by [Dr. Eduard Dragut](https://cis.temple.edu/~edragut/index.htm).
 
 My primary research interests are centered around natural language processing, large language models and machine learning. 
 Specifically, I am working on developing information extraction models under low-resource scenarios using cost-effective techniques such as weak/distant supervision, semi-supervised learning, and in-context learning.
