@@ -12,6 +12,12 @@ Hi👋, my name is Qi Zhang (张棋) I am currently a Computer Science Phd Candi
 My primary research interests are centered around natural language processing, large language models and machine learning. 
 Specifically, I am working on developing information extraction models under low-resource scenarios using cost-effective techniques such as weak/distant supervision, semi-supervised learning, and in-context learning.
 
+I am/was the research assistant for several NSF funded projects, including:
+- Extracting and Linking AI Artifacts
+- Knowledge Graph to Support Evaluation and Development of Climate Models
+- America's Fourth Estate at Risk: A System for
+Mapping the (Local) Journalism Life Cycle to Rebuild the Nation's News Trust
+
 
 # Publications
 
