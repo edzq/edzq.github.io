@@ -13,10 +13,10 @@ My primary research interests are centered around natural language processing, l
 Specifically, I am working on developing information extraction models under low-resource scenarios using cost-effective techniques such as weak/distant supervision, semi-supervised learning, and in-context learning.
 
 I am/was the research assistant for several NSF funded projects, including:
-- Extracting and Linking AI Artifacts
-- Knowledge Graph to Support Evaluation and Development of Climate Models
-- America's Fourth Estate at Risk: A System for
-Mapping the (Local) Journalism Life Cycle to Rebuild the Nation's News Trust
+- [Extracting and Linking AI Artifacts](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2107213&HistoricalAwards=false)
+- [Knowledge Graph to Support Evaluation and Development of Climate Models](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2333789&HistoricalAwards=false)
+- [America's Fourth Estate at Risk: A System for
+Mapping the (Local) Journalism Life Cycle to Rebuild the Nation's News Trust](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2137846)
 
 
 # Publications
