@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi👋, my name is Qi Zhang (张棋) I am currently a Ph.D. Candidate at Computer & Information Sciences Department of Temple University. I am fortunate to be advised by [Dr. Eduard Dragut](https://cis.temple.edu/~edragut/index.htm). I also closely working with [Dr. Cornelia Caragea](https://www.cs.uic.edu/~cornelia/) and [Dr. Longin Jan Latecki](https://cis.temple.edu/~latecki/index.php).
+Hi👋, my name is Qi Zhang (张棋) I am currently a Ph.D. Candidate at Computer & Information Sciences Department of Temple University. I am fortunate to be advised by [Dr. Eduard Dragut](https://cis.temple.edu/~edragut/index.htm). I also closely work with [Dr. Cornelia Caragea](https://www.cs.uic.edu/~cornelia/) and [Dr. Longin Jan Latecki](https://cis.temple.edu/~latecki/index.php).
 
 My primary research interests are centered around Natural Language Processing (NLP), Large Language Models (LLMs) and Machine Learning (ML). 
 Specifically, I am working on developing information extraction models under low-resource scenarios using cost-effective techniques such as weak/distant supervision, semi-supervised learning, and in-context learning.
@@ -26,14 +26,14 @@ Mapping the (Local) Journalism Life Cycle to Rebuild the Nation's News Trust](ht
 
 **Qi Zhang**, Zhijia Chen, Huitong Pan, Cornelia Caragea, Login Jan Latecki, Eduard Dragut
 
-**EMNLP 2024, Main**
+**EMNLP 2024, Main**, (acceptance rate 20.8%)
 
 ---
 **[FlowLearn: Evaluating Large Vision-Language Models on Flowchart Understanding](https://ebooks.iospress.nl/volumearticle/69568)**
 
 Huitong Pan, **Qi Zhang**, Cornelia Caragea, Eduard Dragut, Login Jan Latecki
 
-**ECAI 2024**
+**ECAI 2024**, (acceptance rate 23%)
 
 ---
 **[SciDMT: A Large-Scale Corpus for Detecting Scientific Mentions](https://aclanthology.org/2024.lrec-main.1256/)**
@@ -58,4 +58,3 @@ Biomedical Signal Processing and Control
 
 
 [Full Publication List (Google Scholar)](https://scholar.google.com/citations?hl=en&user=PDQYP3EAAAAJ&view_op=list_works&sortby=pubdate)
-
