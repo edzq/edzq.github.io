@@ -22,6 +22,13 @@ Mapping the (Local) Journalism Life Cycle to Rebuild the Nation's News Trust](ht
 # Selected Publications
 
 ---
+**[DynClean: Training Dynamics-based Label Cleaning for Distantly-Supervised Named Entity Recognition](https://aclanthology.org/2024.emnlp-main.726/)**
+
+**Qi Zhang**, Huitong Pan, Zhijia Chen, Login Jan Latecki, Cornelia Caragea, Eduard Dragut
+
+**NAACL 2025, Findings**
+
+---
 **[SciER: An Entity and Relation Extraction Dataset for Datasetes, Methods, and Tasks in Scientific Documents](https://aclanthology.org/2024.emnlp-main.726/)**
 
 **Qi Zhang**, Zhijia Chen, Huitong Pan, Cornelia Caragea, Login Jan Latecki, Eduard Dragut
