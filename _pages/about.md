@@ -21,6 +21,14 @@ Mapping the (Local) Journalism Life Cycle to Rebuild the Nation's News Trust](ht
 
 # Selected Publications
 
+
+---
+**Taxonomy-Driven Knowledge Graph Expansion for Climate Science**
+
+Huitong Pan, **Qi Zhang**, Eduard Dragut, Cornelia Caragea, Longin Jan Latecki
+
+**In-Progress**
+
 ---
 **[DynClean: Training Dynamics-based Label Cleaning for Distantly-Supervised Named Entity Recognition](https://aclanthology.org/2024.emnlp-main.726/)**
 
