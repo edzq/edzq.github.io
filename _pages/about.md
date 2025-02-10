@@ -7,10 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi👋, my name is Qi Zhang (张棋) I am currently a Ph.D. Candidate at Computer & Information Sciences Department of Temple University. I am fortunate to be advised by [Dr. Eduard Dragut](https://cis.temple.edu/~edragut/index.htm). I also closely work with [Dr. Cornelia Caragea](https://www.cs.uic.edu/~cornelia/) and [Dr. Longin Jan Latecki](https://cis.temple.edu/~latecki/index.php).
+Hi👋, my name is Qi Zhang (张棋 in Chinese). You can also call me Max. 
+I am currently a Ph.D. Candidate at Computer & Information Sciences Department of Temple University. I am fortunate to be advised by [Dr. Eduard Dragut](https://cis.temple.edu/~edragut/index.htm). I also closely work with [Dr. Cornelia Caragea](https://www.cs.uic.edu/~cornelia/) and [Dr. Longin Jan Latecki](https://cis.temple.edu/~latecki/index.php).
 
 My primary research interests are centered around Natural Language Processing (NLP), Large Language Models (LLMs) and Machine Learning (ML). 
-Specifically, I am working on developing information extraction models under low-resource scenarios using cost-effective techniques such as weak/distant supervision, semi-supervised learning, and in-context learning.
+Specifically, the topics I am interested in are:
+- LLM for Structure Modeling (LLM4X)
+- Structure Knowledge for LLMs (X4LLM)
+- LLMs Agentic System
 
 I am/was the research assistant for several NSF funded projects, including:
 - [Extracting and Linking AI Artifacts](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2107213&HistoricalAwards=false)
