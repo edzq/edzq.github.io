@@ -34,7 +34,7 @@ Huitong Pan, **Qi Zhang**, Eduard Dragut, Cornelia Caragea, Longin Jan Latecki
 **In-Progress**
 
 ---
-**[DynClean: Training Dynamics-based Label Cleaning for Distantly-Supervised Named Entity Recognition](https://aclanthology.org/2024.emnlp-main.726/)**
+**[DynClean: Training Dynamics-based Label Cleaning for Distantly-Supervised Named Entity Recognition](https://arxiv.org/abs/2504.04616)**
 
 **Qi Zhang**, Huitong Pan, Zhijia Chen, Login Jan Latecki, Cornelia Caragea, Eduard Dragut
 
