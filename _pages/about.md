@@ -27,7 +27,14 @@ Mapping the (Local) Journalism Life Cycle to Rebuild the Nation's News Trust](ht
 
 
 ---
-**Taxonomy-Driven Knowledge Graph Expansion for Climate Science**
+**ClimateIE: A Dataset for Climate Science Information Extraction**
+
+Huitong Pan, Mustapha Adamu, **Qi Zhang**, Eduard Dragut, Longin Jan Latecki
+
+**The 2nd Workshop of Natural Language Processing meets Climate Change@ACL 2025**
+
+---
+**Taxonomy-Driven Knowledge Graph Construction for Domain-Specific Scientific Applications**
 
 Huitong Pan, **Qi Zhang**, Eduard Dragut, Cornelia Caragea, Longin Jan Latecki
 
