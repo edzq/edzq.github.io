@@ -15,6 +15,7 @@ Specifically, the topics I am interested in are:
 - LLM for Structure Modeling (LLM4X)
 - Structure Knowledge for LLMs (X4LLM)
 - LLMs Agentic System
+- LLM Reasoning
 
 I am/was the research assistant for several NSF funded projects, including:
 - [Extracting and Linking AI Artifacts](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2107213&HistoricalAwards=false)
@@ -25,6 +26,12 @@ Mapping the (Local) Journalism Life Cycle to Rebuild the Nation's News Trust](ht
 
 # Selected Publications
 
+---
+**Taxonomy-Driven Knowledge Graph Construction for Domain-Specific Scientific Applications**
+
+Huitong Pan, **Qi Zhang**, Eduard Dragut, Cornelia Caragea, Longin Jan Latecki
+
+**ACL 2025, Findings**
 
 ---
 **ClimateIE: A Dataset for Climate Science Information Extraction**
@@ -32,13 +39,6 @@ Mapping the (Local) Journalism Life Cycle to Rebuild the Nation's News Trust](ht
 Huitong Pan, Mustapha Adamu, **Qi Zhang**, Eduard Dragut, Longin Jan Latecki
 
 **The 2nd Workshop of Natural Language Processing meets Climate Change@ACL 2025**
-
----
-**Taxonomy-Driven Knowledge Graph Construction for Domain-Specific Scientific Applications**
-
-Huitong Pan, **Qi Zhang**, Eduard Dragut, Cornelia Caragea, Longin Jan Latecki
-
-**In-Progress**
 
 ---
 **[DynClean: Training Dynamics-based Label Cleaning for Distantly-Supervised Named Entity Recognition](https://arxiv.org/abs/2504.04616)**
