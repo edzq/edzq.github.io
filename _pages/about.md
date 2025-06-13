@@ -14,14 +14,8 @@ My primary research interests are centered around Natural Language Processing (N
 Specifically, the topics I am interested in are:
 - LLM for Structure Modeling (LLM4X)
 - Structure Knowledge for LLMs (X4LLM)
-- LLMs Agentic System
+- LLM Agent System
 - LLM Reasoning
-
-I am/was the research assistant for several NSF funded projects, including:
-- [Extracting and Linking AI Artifacts](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2107213&HistoricalAwards=false)
-- [Knowledge Graph to Support Evaluation and Development of Climate Models](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2333789&HistoricalAwards=false)
-- [America's Fourth Estate at Risk: A System for
-Mapping the (Local) Journalism Life Cycle to Rebuild the Nation's News Trust](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2137846)
 
 
 # Selected Publications
@@ -36,7 +30,7 @@ Huitong Pan, **Qi Zhang**, Eduard Dragut, Cornelia Caragea, Longin Jan Latecki
 ---
 **ClimateIE: A Dataset for Climate Science Information Extraction**
 
-Huitong Pan, Mustapha Adamu, **Qi Zhang**, Eduard Dragut, Longin Jan Latecki
+Huitong Pan, **Qi Zhang**, Mustapha Adamu, Eduard Dragut, Longin Jan Latecki
 
 **The 2nd Workshop of Natural Language Processing meets Climate Change@ACL 2025**
 
