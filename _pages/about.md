@@ -32,7 +32,7 @@ Huitong Pan, **Qi Zhang**, Eduard Dragut, Cornelia Caragea, Longin Jan Latecki
 
 Mustapha Adamu, **Qi Zhang**, Huitong Pan, Eduard Dragut, Longin Jan Latecki
 
-**The 2nd Workshop of Natural Language Processing meets Climate Change@ACL 2025**
+**ACM SIGIR 2025 Workshop MANILA**
 
 ---
 **ClimateIE: A Dataset for Climate Science Information Extraction**
