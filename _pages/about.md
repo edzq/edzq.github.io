@@ -14,12 +14,29 @@ My primary research interests are centered around Natural Language Processing (N
 Specifically, the topics I am interested in are:
 - LLM for Structure Modeling (LLM4X)
 - Structure Knowledge for LLMs (X4LLM)
-- LLM Agent System
+- LLM Agentic System
 - LLM Reasoning
 
 
-# Selected Publications
+## News
 
+**09-2025** Start Applied Scientist Intern at AWS.
+
+**05-2025** Start summer research intern at [Intuit AI Research Center](https://www.intuit.com/ai/research/). I am fortunate to work with [Dr. Xiang Gao](https://scholar.google.com/citations?hl=en&user=1xqhHuEAAAAJ&view_op=list_works) and [Dr. Yuguang Yao](https://www.cse.msu.edu/~yaoyugua/).
+
+**04-2025** One paper has been accepted to ACL!!!
+
+**01-2025** One paper has been accepted to NAACL, see you in Albuquerque, New Mexico!!!
+
+
+## Selected Publications
+
+---
+**[DynClean: Training Dynamics-based Label Cleaning for Distantly-Supervised Named Entity Recognition](https://arxiv.org/abs/2504.04616)**
+
+**Qi Zhang**, Huitong Pan, Zhijia Chen, Login Jan Latecki, Cornelia Caragea, Eduard Dragut
+
+**NAACL 2025, Findings**
 ---
 **Taxonomy-Driven Knowledge Graph Construction for Domain-Specific Scientific Applications**
 
@@ -37,16 +54,9 @@ Mustapha Adamu, **Qi Zhang**, Huitong Pan, Eduard Dragut, Longin Jan Latecki
 ---
 **ClimateIE: A Dataset for Climate Science Information Extraction**
 
-Huitong Pan, **Qi Zhang**, Mustapha Adamu, Eduard Dragut, Longin Jan Latecki
+Huitong Pan, Mustapha Adamu, **Qi Zhang**, Eduard Dragut, Longin Jan Latecki
 
 **The 2nd Workshop of Natural Language Processing meets Climate Change@ACL 2025**
-
----
-**[DynClean: Training Dynamics-based Label Cleaning for Distantly-Supervised Named Entity Recognition](https://arxiv.org/abs/2504.04616)**
-
-**Qi Zhang**, Huitong Pan, Zhijia Chen, Login Jan Latecki, Cornelia Caragea, Eduard Dragut
-
-**NAACL 2025, Findings**
 
 ---
 **[SciER: An Entity and Relation Extraction Dataset for Datasetes, Methods, and Tasks in Scientific Documents](https://aclanthology.org/2024.emnlp-main.726/)**
