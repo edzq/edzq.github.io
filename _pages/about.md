@@ -31,12 +31,12 @@ Specifically, the topics I am interested in are:
 
 ## Selected Publications
 
----
 **[DynClean: Training Dynamics-based Label Cleaning for Distantly-Supervised Named Entity Recognition](https://arxiv.org/abs/2504.04616)**
 
 **Qi Zhang**, Huitong Pan, Zhijia Chen, Login Jan Latecki, Cornelia Caragea, Eduard Dragut
 
 **NAACL 2025, Findings**
+
 ---
 **[Taxonomy-Driven Knowledge Graph Construction for Domain-Specific Scientific Applications](https://aclanthology.org/2025.findings-acl.223/)**
 
