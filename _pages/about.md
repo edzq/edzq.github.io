@@ -38,7 +38,7 @@ Specifically, the topics I am interested in are:
 
 **NAACL 2025, Findings**
 ---
-**Taxonomy-Driven Knowledge Graph Construction for Domain-Specific Scientific Applications**
+**[Taxonomy-Driven Knowledge Graph Construction for Domain-Specific Scientific Applications](https://aclanthology.org/2025.findings-acl.223/)**
 
 Huitong Pan, **Qi Zhang**, Eduard Dragut, Cornelia Caragea, Longin Jan Latecki
 
@@ -52,7 +52,7 @@ Mustapha Adamu, **Qi Zhang**, Huitong Pan, Eduard Dragut, Longin Jan Latecki
 **ACM SIGIR 2025 Workshop MANILA**
 
 ---
-**ClimateIE: A Dataset for Climate Science Information Extraction**
+**[ClimateIE: A Dataset for Climate Science Information Extraction](https://aclanthology.org/2025.climatenlp-1.6/)**
 
 Huitong Pan, Mustapha Adamu, **Qi Zhang**, Eduard Dragut, Longin Jan Latecki
 
