@@ -45,7 +45,7 @@ Huitong Pan, **Qi Zhang**, Eduard Dragut, Cornelia Caragea, Longin Jan Latecki
 **ACL 2025, Findings**
 
 ---
-**Querying Climate Knowledge: Semantic Retrieval for Scientific Discovery**
+**[Querying Climate Knowledge: Semantic Retrieval for Scientific Discovery](https://arxiv.org/abs/2509.10087)**
 
 Mustapha Adamu, **Qi Zhang**, Huitong Pan, Eduard Dragut, Longin Jan Latecki
 
