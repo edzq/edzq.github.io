@@ -22,7 +22,7 @@ Specifically, the topics I am interested in are:
 
 **09-2025** Start Applied Scientist Intern at AWS. I am fortunate to work with [Dr. Qian Cui](https://cuibuaa.github.io/) and [Dr. Zhilu Zhang](https://scholar.google.com/citations?hl=en&user=RydNqEYAAAAJ&view_op=list_works&sortby=pubdate).
 
-<!-- **05-2025** Start summer research intern at [Intuit AI Research Center](https://www.intuit.com/ai/research/). I am fortunate to work with [Dr. Xiang Gao](https://scholar.google.com/citations?hl=en&user=1xqhHuEAAAAJ&view_op=list_works) and [Dr. Yuguang Yao](https://www.cse.msu.edu/~yaoyugua/). -->
+**05-2025** Start summer research intern at [Intuit AI Research Center](https://www.intuit.com/ai/research/). I am fortunate to work with [Dr. Xiang Gao](https://scholar.google.com/citations?hl=en&user=1xqhHuEAAAAJ&view_op=list_works) and [Dr. Yuguang Yao](https://www.cse.msu.edu/~yaoyugua/).
 
 **04-2025** One paper has been accepted to ACL!!!
 
