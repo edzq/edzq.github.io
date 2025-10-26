@@ -31,6 +31,13 @@ Specifically, the topics I am interested in are:
 
 ## Selected Publications
 
+*means equal contribution.
+
+**[Metacognitive Self-Correction for Multi-Agent System via Prototype-Guided Next-Execution Reconstruction](https://arxiv.org/abs/2510.14319)**
+
+Xu Shen*, **Qi Zhang***, Song Wang, Zhen Tan, Xinyu Zhao, Laura Yao, Vaishnav Tadiparthi, Hossein Nourkhiz Mahjoub, Ehsan Moradi Pari, Kwonjoon Lee, Tianlong Chen
+
+
 **[DynClean: Training Dynamics-based Label Cleaning for Distantly-Supervised Named Entity Recognition](https://arxiv.org/abs/2504.04616)**
 
 **Qi Zhang**, Huitong Pan, Zhijia Chen, Login Jan Latecki, Cornelia Caragea, Eduard Dragut
