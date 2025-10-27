@@ -10,12 +10,11 @@ redirect_from:
 Hi👋, my name is Qi Zhang (张棋 in Chinese). You can also call me Max. 
 I am currently a Ph.D. Candidate at Computer & Information Sciences Department of Temple University. I am fortunate to be advised by [Dr. Eduard Dragut](https://cis.temple.edu/~edragut/index.htm). I also closely work with [Dr. Cornelia Caragea](https://www.cs.uic.edu/~cornelia/) and [Dr. Longin Jan Latecki](https://cis.temple.edu/~latecki/index.php).
 
-My primary research interests are centered around Natural Language Processing (NLP), Large Language Models (LLMs) and Machine Learning (ML). 
-Specifically, the topics I am interested in are:
-- LLM for Structure Modeling (LLM4X)
-- Structure Knowledge for LLMs (X4LLM)
-- LLM Agentic System
-- LLM Reasoning
+My primary research interests lie in Natural Language Processing (NLP), Large Language Models (LLMs), and Machine Learning (ML).
+Specifically, I focus on the following directions:
+- LLM for Structured Knowledge Extraction (LLM4StructKE): Leveraging LLMs to extract entities, relations, and complex structured knowledge from text.
+- Structured Knowledge for LLMs (StructKE4LLM): Injecting and utilizing structured knowledge to enhance LLM reasoning, factuality, and adaptability.
+- LLM Agents: Developing LLM-based agent systems with capabilities for tool use, safety assurance, and multi-step reasoning.
 
 
 ## News
