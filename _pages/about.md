@@ -34,7 +34,7 @@ Specifically, I focus on the following directions:
 
 **[Metacognitive Self-Correction for Multi-Agent System via Prototype-Guided Next-Execution Reconstruction](https://arxiv.org/abs/2510.14319)**
 
-<u>Xu Shen</u>, <u>**Qi Zhang**</u> , Song Wang, Zhen Tan, Xinyu Zhao, Laura Yao, Vaishnav Tadiparthi, Hossein Nourkhiz Mahjoub, Ehsan Moradi Pari, Kwonjoon Lee, Tianlong Chen
+**<u>Qi Zhang</u>**, <u>Xu Shen</u>,  Song Wang, Zhen Tan, Xinyu Zhao, Laura Yao, Vaishnav Tadiparthi, Hossein Nourkhiz Mahjoub, Ehsan Moradi Pari, Kwonjoon Lee, Tianlong Chen
 
 **Preprint**
 
