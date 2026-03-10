@@ -7,14 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-Hi👋, my name is Qi Zhang (张棋 in Chinese). You can also call me Max. 
+<!-- Hi👋, my name is Qi Zhang (张棋 in Chinese). You can also call me Max. 
 I am currently a Ph.D. Candidate at Computer & Information Sciences Department of Temple University. I am fortunate to be advised by [Dr. Eduard Dragut](https://cis.temple.edu/~edragut/index.htm). I also closely work with [Dr. Cornelia Caragea](https://www.cs.uic.edu/~cornelia/) and [Dr. Longin Jan Latecki](https://cis.temple.edu/~latecki/index.php).
 
 My primary research interests lie in Natural Language Processing (NLP), Large Language Models (LLMs), and Machine Learning (ML).
 Specifically, I focus on the following directions:
 - LLM for Structured Knowledge Extraction (LLM4StructKE): Leveraging LLMs to extract entities, relations, and complex structured knowledge from text.
 - Structured Knowledge for LLMs (StructKE4LLM): Injecting and utilizing structured knowledge to enhance LLM reasoning, factuality, and adaptability.
-- LLM Agents: Developing LLM-based agent systems with capabilities for tool use, safety assurance, and multi-step reasoning.
+- LLM Agents: Developing LLM-based agent systems with capabilities for tool use, safety assurance, and multi-step reasoning. -->
+
+Hi👋, my name is Qi Zhang (张棋 in Chinese), and you can also call me Max.  
+I am currently an Applied Scientist at AWS Security Analytics and AI Research (SAAR) and a Ph.D. Candidate in the Department of Computer & Information Sciences at Temple University. I am fortunate to be advised by [Dr. Eduard Dragut](https://cis.temple.edu/~edragut/index.htm). I also closely work with [Dr. Cornelia Caragea](https://www.cs.uic.edu/~cornelia/) and [Dr. Longin Jan Latecki](https://cis.temple.edu/~latecki/index.php).
+
+My primary research interests are in Natural Language Processing (NLP), Large Language Models (LLMs), and Machine Learning (ML). In particular, I focus on the following directions:
+- **LLM for Structured Knowledge Extraction (LLM4StructKE):** Leveraging LLMs to extract entities, relations, and complex structured knowledge from text.
+- **Structured Knowledge for LLMs (StructKE4LLM):** Injecting and utilizing structured knowledge to enhance LLM reasoning, factuality, and adaptability.
+- **LLM Agents:** Developing LLM-based agent systems with capabilities for tool use, safety assurance, and multi-step reasoning.
+- **AI Agent Safety:** Advancing the safety and reliability of AI agents, with a particular focus on tool-use safety, robustness, anomaly detection, and secure multi-step decision making.
 
 
 ## News
@@ -37,7 +46,6 @@ Specifically, I focus on the following directions:
 **<u>Qi Zhang</u>**, <u>Xu Shen</u>,  Song Wang, Zhen Tan, Xinyu Zhao, Laura Yao, Vaishnav Tadiparthi, Hossein Nourkhiz Mahjoub, Ehsan Moradi Pari, Kwonjoon Lee, Tianlong Chen
 
 **Preprint**
-
 
 **[DynClean: Training Dynamics-based Label Cleaning for Distantly-Supervised Named Entity Recognition](https://arxiv.org/abs/2504.04616)**
 
