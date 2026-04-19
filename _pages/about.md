@@ -7,15 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<!-- Hi👋, my name is Qi Zhang (张棋 in Chinese). You can also call me Max. 
-I am currently a Ph.D. Candidate at Computer & Information Sciences Department of Temple University. I am fortunate to be advised by [Dr. Eduard Dragut](https://cis.temple.edu/~edragut/index.htm). I also closely work with [Dr. Cornelia Caragea](https://www.cs.uic.edu/~cornelia/) and [Dr. Longin Jan Latecki](https://cis.temple.edu/~latecki/index.php).
-
-My primary research interests lie in Natural Language Processing (NLP), Large Language Models (LLMs), and Machine Learning (ML).
-Specifically, I focus on the following directions:
-- LLM for Structured Knowledge Extraction (LLM4StructKE): Leveraging LLMs to extract entities, relations, and complex structured knowledge from text.
-- Structured Knowledge for LLMs (StructKE4LLM): Injecting and utilizing structured knowledge to enhance LLM reasoning, factuality, and adaptability.
-- LLM Agents: Developing LLM-based agent systems with capabilities for tool use, safety assurance, and multi-step reasoning. -->
-
 Hi👋, my name is Qi Zhang (张棋 in Chinese), and you can also call me Max.  
 I am currently an Applied Scientist at AWS Security Analytics and AI Research (SAAR) and a Ph.D. Candidate in the Department of Computer & Information Sciences at Temple University. I am fortunate to be advised by [Dr. Eduard Dragut](https://cis.temple.edu/~edragut/index.htm). I also closely work with [Dr. Cornelia Caragea](https://www.cs.uic.edu/~cornelia/) and [Dr. Longin Jan Latecki](https://cis.temple.edu/~latecki/index.php).
 
@@ -27,6 +18,12 @@ My primary research interests are in Natural Language Processing (NLP), Large La
 
 
 ## News
+
+**04-2026** Successfully finish the Ph.D. dissertation defense!!! I am Dr. Zhang now!
+
+**04-2026** Four papers accepted to ACL, see you in San Diego!!!
+
+**03-2026** Start as Applied Scientist at AWS GuardDuty!
 
 **09-2025** Start Applied Scientist Intern at AWS. I am fortunate to work with [Dr. Qian Cui](https://cuibuaa.github.io/) and [Dr. Zhilu Zhang](https://scholar.google.com/citations?hl=en&user=RydNqEYAAAAJ&view_op=list_works&sortby=pubdate).
 
@@ -41,11 +38,23 @@ My primary research interests are in Natural Language Processing (NLP), Large La
 
 <u>underline</u> means equal contribution.
 
+**Scaling Performance and Low-Resource Annotation with Many-Shot In-Context Learning for Named Entity Recognition**
+
+**Qi Zhang**, Fangping Lan, Cornelia Caragea, Longin Jan Latecki, Eduard Dragut
+
+**ACL 2026, Findings**
+
+**Making Revisions Understandable: A Survey of Edit Intentions, Methods, and Applications**
+
+Fangping Lan, **Qi Zhang**, Eduard Dragut
+
+**ACL 2026, Findings**
+
 **[Metacognitive Self-Correction for Multi-Agent System via Prototype-Guided Next-Execution Reconstruction](https://arxiv.org/abs/2510.14319)**
 
 **<u>Qi Zhang</u>**, <u>Xu Shen</u>,  Song Wang, Zhen Tan, Xinyu Zhao, Laura Yao, Vaishnav Tadiparthi, Hossein Nourkhiz Mahjoub, Ehsan Moradi Pari, Kwonjoon Lee, Tianlong Chen
 
-**Preprint**
+**ACL 2026, Findings**
 
 **[DynClean: Training Dynamics-based Label Cleaning for Distantly-Supervised Named Entity Recognition](https://arxiv.org/abs/2504.04616)**
 
