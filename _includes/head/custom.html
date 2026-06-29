@@ -34,11 +34,11 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@400;700&display=swap');
 
-/* Apply Comic Neue everywhere except icon fonts */
-*:not(.fa):not(.fas):not(.far):not(.fab):not(.fal):not(.fad):not(.ai):not([class^="icon"]) {
+/* Apply Comic Neue everywhere except icon fonts (FontAwesome 6 / Academicons) */
+*:not(.fa):not(.fas):not(.far):not(.fab):not(.fal):not(.fad):not([class*="fa-"]):not(.ai):not([class*="ai-"]) {
   font-family: 'Comic Neue', 'Comic Sans MS', 'Comic Sans', cursive !important;
 }
-body, td, th, tr, p, a:not(.fa):not(.fas):not(.fab):not(.ai), span:not(.fa):not(.fas):not(.fab):not(.ai), em, li, h1, h2, h3, h4, strong {
+body, td, th, tr, p, a:not([class*="fa"]):not([class*="ai"]), span:not([class*="fa"]):not([class*="ai"]), em, li, h1, h2, h3, h4, strong {
   font-family: 'Comic Neue', 'Comic Sans MS', 'Comic Sans', cursive !important;
   font-weight: 700 !important;
 }
@@ -49,11 +49,11 @@ h2, h2 *, h2 em, h2 strong, h2 a { font-size: 27px !important; }
 h3, h3 *, h3 em, h3 strong, h3 a { font-size: 21px !important; }
 h4, h4 *, h4 em, h4 strong, h4 a { font-size: 18px !important; }
 
-/* Restore icon fonts */
-.fa, .fas, .far, .fab, .fal, .fad { font-family: 'Font Awesome 5 Free' !important; font-weight: 900 !important; }
-.fab { font-family: 'Font Awesome 5 Brands' !important; font-weight: 400 !important; }
-.ai { font-family: 'Academicons' !important; font-weight: normal !important; }
-[class^="icon-"], [class*=" icon-"] { font-family: inherit !important; }
+/* Restore icon fonts (FontAwesome 6.x + Academicons) */
+.fa, .fas, .fa-solid { font-family: 'Font Awesome 6 Free' !important; font-weight: 900 !important; }
+.far, .fa-regular { font-family: 'Font Awesome 6 Free' !important; font-weight: 400 !important; }
+.fab, .fa-brands { font-family: 'Font Awesome 6 Brands' !important; font-weight: 400 !important; }
+.ai, [class*="ai-"] { font-family: 'Academicons' !important; font-weight: normal !important; }
 
 /* Research interest cards */
 .research-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 16px 0; }
