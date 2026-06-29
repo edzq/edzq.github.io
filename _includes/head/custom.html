@@ -29,4 +29,56 @@
 <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
+<!-- Comic Neue font + custom styling -->
+<link href="https://fonts.googleapis.com/css2?family=Comic+Neue:wght@400;700&display=swap" rel="stylesheet" />
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@400;700&display=swap');
+
+/* Apply Comic Neue everywhere except icon fonts */
+*:not(.fa):not(.fas):not(.far):not(.fab):not(.fal):not(.fad):not(.ai):not([class^="icon"]) {
+  font-family: 'Comic Neue', 'Comic Sans MS', 'Comic Sans', cursive !important;
+}
+body, td, th, tr, p, a:not(.fa):not(.fas):not(.fab):not(.ai), span:not(.fa):not(.fas):not(.fab):not(.ai), em, li, h1, h2, h3, h4, strong {
+  font-family: 'Comic Neue', 'Comic Sans MS', 'Comic Sans', cursive !important;
+  font-weight: 700 !important;
+}
+
+/* Global font size override */
+body, p, li, td, th, tr, a, span, em, strong { font-size: 17px !important; }
+h2, h2 *, h2 em, h2 strong, h2 a { font-size: 27px !important; }
+h3, h3 *, h3 em, h3 strong, h3 a { font-size: 21px !important; }
+h4, h4 *, h4 em, h4 strong, h4 a { font-size: 18px !important; }
+
+/* Restore icon fonts */
+.fa, .fas, .far, .fab, .fal, .fad { font-family: 'Font Awesome 5 Free' !important; font-weight: 900 !important; }
+.fab { font-family: 'Font Awesome 5 Brands' !important; font-weight: 400 !important; }
+.ai { font-family: 'Academicons' !important; font-weight: normal !important; }
+[class^="icon-"], [class*=" icon-"] { font-family: inherit !important; }
+
+/* Research interest cards */
+.research-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 16px 0; }
+@media (max-width: 768px) { .research-grid { grid-template-columns: 1fr; } }
+.rc { background: #f8f9fa; border-radius: 10px; padding: 16px 18px; border-left: 4px solid #1772d0; }
+.rc h4 { margin: 0 0 6px 0; font-size: 17px; }
+.rc p { font-size: 15px; color: #555; margin: 0 0 8px 0; line-height: 1.5; }
+.rc .tags span { display: inline-block; background: #fff; border: 1px solid #ddd; border-radius: 12px; padding: 2px 9px; font-size: 13px; color: #666; margin: 2px 2px 2px 0; }
+.rc-a { border-left-color: #1772d0; }
+.rc-a h4 { color: #1772d0; }
+.rc-m { border-left-color: #8e44ad; }
+.rc-m h4 { color: #8e44ad; }
+.rc-t { border-left-color: #27ae60; }
+.rc-t h4 { color: #27ae60; }
+.rc-med { border-left-color: #e74c3c; }
+.rc-med h4 { color: #c0392b; }
+
+/* News list */
+.news-list { list-style: none; padding-left: 0; }
+.news-list li { margin-bottom: 8px; line-height: 1.5; }
+.news-list .date { color: #1772d0; white-space: nowrap; }
+
+/* Increase spacing between sections */
+h2, .page__content h2, .page h2, article h2, #main h2, .archive h2 { margin-top: 40px !important; margin-bottom: 16px !important; }
+h3, .page__content h3, .page h3, article h3, #main h3 { margin-top: 28px !important; margin-bottom: 12px !important; }
+</style>
+
 <!-- end custom head snippets -->
