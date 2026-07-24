@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Qi Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "CS Ph.D. Candidate"
+  bio              : "AI Researcher"
   location         : "United States"
-  employer         : "Temple University"
+  employer         :
   uri              : # URL
   email            : "qi.zhang@temple.edu" 
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "qi-zhang-58162b216" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
