@@ -11,15 +11,25 @@ redirect_from:
 
 Hi👋, my name is Qi Zhang (张棋 in Chinese), and you can also call me Max.
 
-🏫 I am currently an Applied Scientist at **AWS** Security Analytics and AI Research (SAAR) and a Ph.D. Candidate in the Department of Computer & Information Sciences at **Temple University**. I am fortunate to be advised by [Dr. Eduard Dragut](https://cis.temple.edu/~edragut/index.htm). I also closely work with [Dr. Cornelia Caragea](https://www.cs.uic.edu/~cornelia/) and [Dr. Longin Jan Latecki](https://cis.temple.edu/~latecki/index.php).
+🏫 I am currently an Applied Scientist at **AWS** Security Analytics and AI Research (SAAR) and hold a Ph.D. in Computer & Information Sciences from **Temple University**. I am fortunate to be advised by [Dr. Eduard Dragut](https://cis.temple.edu/~edragut/index.htm). I also closely work with [Dr. Cornelia Caragea](https://www.cs.uic.edu/~cornelia/) and [Dr. Longin Jan Latecki](https://cis.temple.edu/~latecki/index.php).
 
 📖 My primary research interests are in Natural Language Processing (NLP), Large Language Models (LLMs), and Machine Learning (ML).
 
 ## 🔍 Research Interests
 
-I am broadly interested in building LLM systems that connect language and structured knowledge, and in making LLM agents reliable and safe. Representative directions are highlighted below.
+I am broadly interested in building LLM systems that connect language and structured knowledge, and in making LLM agents reliable and secure. Representative directions are highlighted below.
 
 <div class="research-grid">
+  <div class="rc rc-t">
+    <h4>🤖 LLM Agents</h4>
+    <p>Developing LLM-based agent systems with capabilities for tool use, security assurance, and multi-step reasoning.</p>
+    <div class="tags"><span>Tool Use</span><span>Multi-Agent Systems</span><span>Reasoning</span></div>
+  </div>
+  <div class="rc rc-med">
+    <h4>🛡️ AI Agent Security</h4>
+    <p>Advancing the security and reliability of AI agents: tool-use security, robustness, anomaly detection, and secure multi-step decision making.</p>
+    <div class="tags"><span>Tool-Use Security</span><span>Robustness</span><span>Anomaly Detection</span></div>
+  </div>
   <div class="rc rc-a">
     <h4>🧩 LLM for Structured Knowledge Extraction</h4>
     <p>Leveraging LLMs to extract entities, relations, and complex structured knowledge from text (LLM4StructKE).</p>
@@ -29,16 +39,6 @@ I am broadly interested in building LLM systems that connect language and struct
     <h4>🧠 Structured Knowledge for LLMs</h4>
     <p>Injecting and utilizing structured knowledge to enhance LLM reasoning, factuality, and adaptability (StructKE4LLM).</p>
     <div class="tags"><span>Knowledge Graphs</span><span>Retrieval-Augmented Generation</span><span>Factuality</span></div>
-  </div>
-  <div class="rc rc-t">
-    <h4>🤖 LLM Agents</h4>
-    <p>Developing LLM-based agent systems with capabilities for tool use, safety assurance, and multi-step reasoning.</p>
-    <div class="tags"><span>Tool Use</span><span>Multi-Agent Systems</span><span>Reasoning</span></div>
-  </div>
-  <div class="rc rc-med">
-    <h4>🛡️ AI Agent Safety</h4>
-    <p>Advancing the safety and reliability of AI agents: tool-use safety, robustness, anomaly detection, and secure multi-step decision making.</p>
-    <div class="tags"><span>Tool-Use Safety</span><span>Robustness</span><span>Anomaly Detection</span></div>
   </div>
 </div>
 
