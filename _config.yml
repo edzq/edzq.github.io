@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Qi Zhang"
 title_separator          : "-"
 name                     : &name "Qi Zhang"
-description              : &description "personal description"
+description              : &description "Qi Zhang (Max) — Applied Scientist at AWS. NLP, large language models, and AI agent security."
 url                      : https://edzq.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "edzq/edzq.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Qi Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "AI Researcher"
+  bio              : "AI Scientist"
   location         : "United States"
   employer         :
   uri              : # URL
@@ -230,12 +230,12 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
-      author_profile: true
+      layout: post
+      author_profile: false
       read_time: true
       comments: true
-      share: true
-      related: true
+      share: false
+      related: false
   # _pages
   - scope:
       path: ""

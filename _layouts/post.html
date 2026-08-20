@@ -1,0 +1,81 @@
+---
+layout: default
+---
+
+{% include base_path %}
+
+<div id="main" role="main" class="post-main">
+  <article class="post-single" itemscope itemtype="http://schema.org/BlogPosting">
+
+    <header class="post-header">
+      <a class="post-back" href="{{ base_path }}/blog/">&larr; Writing</a>
+      <h1 class="post-title" itemprop="headline">{{ page.title }}</h1>
+      <div class="post-meta">
+        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
+        {% if page.read_time %}<span class="sep">&middot;</span><span>{% include read-time.html %}</span>{% endif %}
+        {% if page.tags.size > 0 %}<span class="sep">&middot;</span><span>{{ page.tags | join: ", " }}</span>{% endif %}
+      </div>
+    </header>
+
+    {%- comment -%}
+      Table of contents, built from the rendered h2/h3 anchors kramdown emits
+      (auto_ids is on). Shown only when the post is long enough to need it.
+    {%- endcomment -%}
+    {% assign chunks = content | split: '<h' %}
+    {% assign heading_count = 0 %}
+    {% for chunk in chunks offset:1 %}
+      {% assign lvl = chunk | slice: 0 %}
+      {% if lvl == '2' or lvl == '3' %}{% assign heading_count = heading_count | plus: 1 %}{% endif %}
+    {% endfor %}
+    {% if heading_count >= 3 %}
+    <details class="toc" open>
+      <summary>Table of Contents</summary>
+      <div class="toc-inner">
+        <ul>
+        {%- for chunk in chunks offset:1 -%}
+          {%- assign lvl = chunk | slice: 0 -%}
+          {%- if lvl == '2' or lvl == '3' -%}
+            {%- assign id_parts = chunk | split: 'id="' -%}
+            {%- if id_parts.size > 1 -%}
+              {%- assign hid = id_parts[1] | split: '"' | first -%}
+              {%- assign htext = chunk | split: '</h' | first | split: '">' | last | strip_html | strip -%}
+              <li class="lvl{{ lvl }}"><a href="#{{ hid }}">{{ htext }}</a></li>
+            {%- endif -%}
+          {%- endif -%}
+        {%- endfor -%}
+        </ul>
+      </div>
+    </details>
+    {% endif %}
+
+    <div class="post-content" itemprop="articleBody">
+      {{ content }}
+    </div>
+
+    <footer class="post-footer">
+      {% if page.tags.size > 0 %}
+      <ul class="post-tags">
+        {% for tag in page.tags %}<li><a href="{{ base_path }}/tags/#{{ tag | slugify }}">{{ tag }}</a></li>{% endfor %}
+      </ul>
+      {% endif %}
+
+      {% if page.previous or page.next %}
+      <nav class="paginav">
+        {% if page.next %}
+        <a class="prev" href="{{ base_path }}{{ page.next.url }}">
+          <span class="dir">&laquo; Newer</span>
+          <span class="label">{{ page.next.title }}</span>
+        </a>
+        {% endif %}
+        {% if page.previous %}
+        <a class="next" href="{{ base_path }}{{ page.previous.url }}">
+          <span class="dir">Older &raquo;</span>
+          <span class="label">{{ page.previous.title }}</span>
+        </a>
+        {% endif %}
+      </nav>
+      {% endif %}
+    </footer>
+
+  </article>
+</div>
