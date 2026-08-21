@@ -87,14 +87,22 @@ a { color: var(--accent); text-decoration: none; }
 .author__urls li { padding: 0.16em 0; font-size: 0.82rem; }
 .author__urls a { color: var(--muted); text-decoration: none; }
 .author__urls a:hover { color: var(--accent); text-decoration: none; }
-.author__urls i, .author__urls .ai { color: var(--accent-weak); width: 1.2em; }
+.author__urls li i, .author__urls li .ai { color: var(--accent-weak); width: 1.2em; }
 
 /* Wide: the theme already lists the links inline — drop its stray "Follow"
    button and the popover chrome. */
 @media (min-width: 1200px) {
   .author__urls-wrapper .btn { display: none; }
-  .author__urls-wrapper { position: static; }
-  .author__urls { border: 0; box-shadow: none; padding: 0; background: transparent; }
+  .author__urls {
+    /* The theme sets z-index:-1 here and never resets it at this breakpoint; it
+       only stays clickable because .author__urls-wrapper opens a stacking
+       context around it. Reset it rather than relying on that. */
+    z-index: auto;
+    border: 0;
+    box-shadow: none;
+    padding: 0;
+    background: transparent;
+  }
 }
 
 /* Narrow: the theme turns the profile into a horizontal strip whose links hide
