@@ -1,0 +1,12 @@
+{% include base_path %}
+{%- if include.src contains "://" -%}
+  {%- assign fig_src = include.src -%}
+{%- else -%}
+  {%- assign fig_src = include.src | prepend: base_path -%}
+{%- endif -%}
+<figure{% if include.width %} style="width: {{ include.width }}"{% endif %}>
+  <img src="{{ fig_src }}" alt="{{ include.alt | default: include.caption | strip_html }}" loading="lazy" />
+  {%- if include.caption %}
+  <figcaption>{{ include.caption }}</figcaption>
+  {%- endif %}
+</figure>

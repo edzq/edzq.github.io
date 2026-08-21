@@ -6,9 +6,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Qi Zhang (张棋), also called Max — an Applied Scientist at **AWS** Security Analytics and AI Research (SAAR), and hold a Ph.D. in Computer & Information Sciences from **Temple University**, where I was advised by [Eduard Dragut](https://cis.temple.edu/~edragut/index.htm) and worked closely with [Cornelia Caragea](https://www.cs.uic.edu/~cornelia/) and [Longin Jan Latecki](https://cis.temple.edu/~latecki/index.php).
+I am Qi Zhang (张棋), also called Max — an Applied Scientist at AWS Security Analytics and AI Research (SAAR), and hold a Ph.D. in Computer & Information Sciences from Temple University, where I was advised by [Eduard Dragut](https://cis.temple.edu/~edragut/index.htm) and worked closely with [Cornelia Caragea](https://www.cs.uic.edu/~cornelia/) and [Longin Jan Latecki](https://cis.temple.edu/~latecki/index.php).
 
-My research is in natural language processing, large language models, and machine learning. I am always glad to talk about any of it — [write to me](mailto:qi.zhang@temple.edu).
+My research is in LLM agents, AI security, LLMs, NLP, and machine learning. I am always glad to talk about any of it — [write to me](mailto:qi.zhang@temple.edu).
 
 ## Research
 
@@ -47,12 +47,12 @@ My research is in natural language processing, large language models, and machin
 
 <ul class="news-list">
   <li><span class="date">2026.04</span><span>Successfully defended my Ph.D. dissertation. I am Dr. Zhang now.</span></li>
-  <li><span class="date">2026.04</span><span>Four papers accepted to <b>ACL 2026</b> — see you in San Diego.</span></li>
-  <li><span class="date">2026.03</span><span>Started as Applied Scientist at <b>AWS GuardDuty</b>.</span></li>
-  <li><span class="date">2025.09</span><span>Started as Applied Scientist Intern at <b>AWS</b>, working with <a href="https://cuibuaa.github.io/">Qian Cui</a> and <a href="https://scholar.google.com/citations?hl=en&user=RydNqEYAAAAJ&view_op=list_works&sortby=pubdate">Zhilu Zhang</a>.</span></li>
+  <li><span class="date">2026.04</span><span>Four papers accepted to ACL 2026 — see you in San Diego.</span></li>
+  <li><span class="date">2026.03</span><span>Started as Applied Scientist at AWS GuardDuty.</span></li>
+  <li><span class="date">2025.09</span><span>Started as Applied Scientist Intern at AWS, working with <a href="https://cuibuaa.github.io/">Qian Cui</a> and <a href="https://scholar.google.com/citations?hl=en&user=RydNqEYAAAAJ&view_op=list_works&sortby=pubdate">Zhilu Zhang</a>.</span></li>
   <li><span class="date">2025.05</span><span>Summer research intern at <a href="https://www.intuit.com/ai/research/">Intuit AI Research</a>, working with <a href="https://scholar.google.com/citations?hl=en&user=1xqhHuEAAAAJ&view_op=list_works">Xiang Gao</a> and <a href="https://scholar.google.com/citations?user=-chIdAkAAAAJ&hl=en">Yuguang Yao</a>.</span></li>
-  <li><span class="date">2025.04</span><span>One paper accepted to <b>ACL 2025</b>.</span></li>
-  <li><span class="date">2025.01</span><span>One paper accepted to <b>NAACL 2025</b> — see you in Albuquerque.</span></li>
+  <li><span class="date">2025.04</span><span>One paper accepted to ACL 2025.</span></li>
+  <li><span class="date">2025.01</span><span>One paper accepted to NAACL 2025 — see you in Albuquerque.</span></li>
 </ul>
 
 ## Selected Publications

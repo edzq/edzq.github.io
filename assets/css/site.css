@@ -529,7 +529,7 @@ a { color: var(--accent); text-decoration: none; }
 
 /* Figures — numbered captions, as on the reference site */
 .post-content img { max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 3px; }
-.post-content figure { counter-increment: figure-counter; margin: 2.2em 0; }
+.post-content figure { counter-increment: figure-counter; margin: 2.2em auto; max-width: 100%; }
 .post-content figcaption {
   max-width: 85%;
   margin: 0.9em auto 0;
