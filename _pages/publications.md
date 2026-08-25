@@ -34,6 +34,11 @@ A related thread applies this to specific scientific fields, where the vocabular
 
 <ul class="pubs">
   <li>
+    <span class="t"><a href="https://arxiv.org/abs/2608.20617">Dual-Cache Latent Space Communication between Heterogeneous Language Models</a></span>
+    <span class="a">Jiyao Liu, <span class="me">Qi Zhang</span>, Yaoyi Jia, Ziwen Kan, Song Wang</span>
+    <span class="v">arXiv preprint &middot; 2026</span>
+  </li>
+  <li>
     <span class="t">Scaling Performance and Low-Resource Annotation with Many-Shot In-Context Learning for Named Entity Recognition</span>
     <span class="a"><span class="me">Qi Zhang</span>, Fangping Lan, Cornelia Caragea, Longin Jan Latecki, Eduard Dragut</span>
     <span class="v">ACL 2026 &middot; Findings</span>

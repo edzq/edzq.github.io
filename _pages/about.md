@@ -46,6 +46,7 @@ My research is in LLM agents, AI security, LLMs, NLP, and machine learning. I am
 ## News
 
 <ul class="news-list">
+  <li><span class="date">2026.08</span><span>New preprint: <a href="https://arxiv.org/abs/2608.20617">Dual-Cache Latent Space Communication between Heterogeneous Language Models</a>.</span></li>
   <li><span class="date">2026.04</span><span>Successfully defended my Ph.D. dissertation. I am Dr. Zhang now.</span></li>
   <li><span class="date">2026.04</span><span>Four papers accepted to ACL 2026 — see you in San Diego.</span></li>
   <li><span class="date">2026.03</span><span>Started as Applied Scientist at AWS GuardDuty.</span></li>
@@ -58,6 +59,11 @@ My research is in LLM agents, AI security, LLMs, NLP, and machine learning. I am
 ## Selected Publications
 
 <ul class="pubs">
+  <li>
+    <span class="t"><a href="https://arxiv.org/abs/2608.20617">Dual-Cache Latent Space Communication between Heterogeneous Language Models</a></span>
+    <span class="a">Jiyao Liu, <span class="me">Qi Zhang</span>, Yaoyi Jia, Ziwen Kan, Song Wang</span>
+    <span class="v">arXiv preprint &middot; 2026</span>
+  </li>
   <li>
     <span class="t">Scaling Performance and Low-Resource Annotation with Many-Shot In-Context Learning for Named Entity Recognition</span>
     <span class="a"><span class="me">Qi Zhang</span>, Fangping Lan, Cornelia Caragea, Longin Jan Latecki, Eduard Dragut</span>
