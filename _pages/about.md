@@ -58,10 +58,12 @@ My research is in LLM agents, AI security, LLMs, NLP, and machine learning. I am
 
 ## Selected Publications
 
+<p class="legend"><u>Underline</u> marks equal contribution.</p>
+
 <ul class="pubs">
   <li>
     <span class="t"><a href="https://arxiv.org/abs/2608.20617">Dual-Cache Latent Space Communication between Heterogeneous Language Models</a></span>
-    <span class="a">Jiyao Liu, <span class="me">Qi Zhang</span>, Yaoyi Jia, Ziwen Kan, Song Wang</span>
+    <span class="a"><u>Jiyao Liu</u>, <span class="me"><u>Qi Zhang</u></span>, Yaoyi Jia, Ziwen Kan, Song Wang</span>
     <span class="v">arXiv preprint &middot; 2026</span>
   </li>
   <li>

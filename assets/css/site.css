@@ -595,3 +595,7 @@ a { color: var(--accent); text-decoration: none; }
   color: var(--muted);
   margin: 2.8em 0 0.3em;
 }
+
+/* Small explanatory line under a section heading (e.g. the equal-contribution
+   note above the publication list). */
+.legend { font-size: 0.84rem; color: var(--muted); margin: -0.4em 0 1.4em; }

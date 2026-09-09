@@ -28,6 +28,7 @@ A related thread applies this to specific scientific fields, where the vocabular
 ## Publications
 
 <u>Underline</u> marks equal contribution. A continuously updated list lives on <a href="https://scholar.google.com/citations?hl=en&user=PDQYP3EAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>.
+{: .legend}
 
 ### 2026
 {: .year}
@@ -35,7 +36,7 @@ A related thread applies this to specific scientific fields, where the vocabular
 <ul class="pubs">
   <li>
     <span class="t"><a href="https://arxiv.org/abs/2608.20617">Dual-Cache Latent Space Communication between Heterogeneous Language Models</a></span>
-    <span class="a">Jiyao Liu, <span class="me">Qi Zhang</span>, Yaoyi Jia, Ziwen Kan, Song Wang</span>
+    <span class="a"><u>Jiyao Liu</u>, <span class="me"><u>Qi Zhang</u></span>, Yaoyi Jia, Ziwen Kan, Song Wang</span>
     <span class="v">arXiv preprint &middot; 2026</span>
   </li>
   <li>
