@@ -65,6 +65,11 @@ My research is in LLM agents, AI security, LLMs, NLP, and machine learning. I am
     <span class="v">arXiv preprint &middot; 2026</span>
   </li>
   <li>
+    <span class="t">Ontology-Guided Knowledge Graph Construction from Structured Metadata and Climate Science Publications</span>
+    <span class="a">Aayush Acharya, <span class="me">Qi Zhang</span>, Eduard Dragut, Longin Jan Latecki</span>
+    <span class="v">AACL-IJCNLP 2026</span>
+  </li>
+  <li>
     <span class="t">Scaling Performance and Low-Resource Annotation with Many-Shot In-Context Learning for Named Entity Recognition</span>
     <span class="a"><span class="me">Qi Zhang</span>, Fangping Lan, Cornelia Caragea, Longin Jan Latecki, Eduard Dragut</span>
     <span class="v">ACL 2026 &middot; Findings</span>
