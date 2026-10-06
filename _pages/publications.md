@@ -19,7 +19,7 @@ This is my current focus at AWS: tool-use security, robustness, and anomaly dete
 
 ### Structured knowledge from text
 
-Most of my Ph.D. work is about pulling entities, relations, and mentions out of scientific writing — and about making that extraction hold up when supervision is noisy or scarce. *SciER* (EMNLP 2024) is an entity and relation extraction dataset covering datasets, methods, and tasks in scientific documents; *DMDD* (TACL) and *SciDMT* (LREC-COLING 2024) target dataset and scientific-mention detection at scale. *DynClean* (NAACL 2025) uses training dynamics to clean labels for distantly-supervised NER, and *Many-Shot In-Context Learning for NER* (ACL 2026) asks how far in-context learning can substitute for annotation in the low-resource case.
+Most of my Ph.D. work is about pulling entities, relations, and mentions out of scientific writing — and about making that extraction hold up when supervision is noisy or scarce. *SciER* (EMNLP 2024) is an entity and relation extraction dataset covering datasets, methods, and tasks in scientific documents; *DMDD* (TACL) and *SciDMT* (LREC-COLING 2024) target dataset and scientific-mention detection at scale. *DynClean* (NAACL 2025) uses training dynamics to clean labels for distantly-supervised NER, and *Many-Shot In-Context Learning for NER* (ACL 2026) asks how far in-context learning can substitute for annotation in the low-resource case. *CATune* (VLDB 2026) carries precision-first extraction to DBMS manuals, pulling out knob dependency constraints that a Bayesian optimizer then enforces as structure in its search space.
 
 ### Structure for scientific domains
 
@@ -38,6 +38,11 @@ A related thread applies this to specific scientific fields, where the vocabular
     <span class="t"><a href="https://arxiv.org/abs/2608.20617">Dual-Cache Latent Space Communication between Heterogeneous Language Models</a></span>
     <span class="a"><u>Jiyao Liu</u>, <span class="me"><u>Qi Zhang</u></span>, Yaoyi Jia, Ziwen Kan, Song Wang</span>
     <span class="v">arXiv preprint &middot; 2026</span>
+  </li>
+  <li>
+    <span class="t"><a href="https://github.com/lanfangping/CATune">CATune: Structural Constraint-Aware Bayesian Optimization for DBMS Configuration Tuning</a></span>
+    <span class="a">Fangping Lan, <span class="me">Qi Zhang</span>, Eduard Dragut</span>
+    <span class="v">VLDB 2026 &middot; PVLDB Vol. 19</span>
   </li>
   <li>
     <span class="t">Ontology-Guided Knowledge Graph Construction from Structured Metadata and Climate Science Publications</span>

@@ -46,6 +46,7 @@ My research is in LLM agents, AI security, LLMs, NLP, and machine learning. I am
 ## News
 
 <ul class="news-list">
+  <li><span class="date">2026.10</span><span>One paper accepted to VLDB 2026: <a href="https://github.com/lanfangping/CATune">CATune</a>, constraint-aware Bayesian optimization for DBMS tuning.</span></li>
   <li><span class="date">2026.08</span><span>New preprint: <a href="https://arxiv.org/abs/2608.20617">Dual-Cache Latent Space Communication between Heterogeneous Language Models</a>.</span></li>
   <li><span class="date">2026.04</span><span>Successfully defended my Ph.D. dissertation. I am Dr. Zhang now.</span></li>
   <li><span class="date">2026.04</span><span>Four papers accepted to ACL 2026 — see you in San Diego.</span></li>
@@ -65,6 +66,11 @@ My research is in LLM agents, AI security, LLMs, NLP, and machine learning. I am
     <span class="t"><a href="https://arxiv.org/abs/2608.20617">Dual-Cache Latent Space Communication between Heterogeneous Language Models</a></span>
     <span class="a"><u>Jiyao Liu</u>, <span class="me"><u>Qi Zhang</u></span>, Yaoyi Jia, Ziwen Kan, Song Wang</span>
     <span class="v">arXiv preprint &middot; 2026</span>
+  </li>
+  <li>
+    <span class="t"><a href="https://github.com/lanfangping/CATune">CATune: Structural Constraint-Aware Bayesian Optimization for DBMS Configuration Tuning</a></span>
+    <span class="a">Fangping Lan, <span class="me">Qi Zhang</span>, Eduard Dragut</span>
+    <span class="v">VLDB 2026 &middot; PVLDB Vol. 19</span>
   </li>
   <li>
     <span class="t">Ontology-Guided Knowledge Graph Construction from Structured Metadata and Climate Science Publications</span>
